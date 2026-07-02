@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Information%20Technology%20%7C%20FCIT%2C%20University%20of%20the%20Punjab&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/Talha-Yaseen-Hub">
-  <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=600&size=23&duration=3000&pause=800&color=FFD700;2ECC71;FFD700;2ECC71&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;BS+Information+Technology+at+FCIT%2C+PU;Curious+about+Data%2C+Code+%26+Intelligence;Currently+Diving+into+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Ubuntu&weight=600&size=23&duration=3000&pause=800&color=E0BFB8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;BS+Information+Technology+at+FCIT%2C+PU;Curious+about+Data%2C+Code+%26+Intelligence;Currently+Diving+into+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
