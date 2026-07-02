@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-- 🎓 BSIT student at **FCIT, PUCIT** — Batch **2024**
+- 🎓 BSIT student at **FCIT, University of the Punjab, Lahore** — Batch **2024**
 - 💡 Passionate about turning raw data into meaningful, usable insight
 - 🧠 Currently deep-diving into **Artificial Intelligence & Machine Learning**
 - 🛠️ Comfortable across the stack — from low-level **C / C++** to high-level **Python & Data Analytics**
