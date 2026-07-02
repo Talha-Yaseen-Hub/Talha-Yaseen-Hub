@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Information%20Technology%20%7C%20FCIT%2C%20University%20of%20the%20Punjab&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/TalhaYaseen">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;BSIT+Student+at+FCIT%2C+PUCIT;Curious+about+Data%2C+Code+%26+Intelligence;Currently+Diving+into+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;BSIT+Student+at+FCIT%2C+PU;Curious+about+Data%2C+Code+%26+Intelligence;Currently+Diving+into+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BSIT%20Student-FCIT%2C%20PUCIT-1E3C72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BSIT%20Student-FCIT%2C%20PU-1E3C72?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Batch-2024-2A5298?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Learning%20AI%2FML-FFD700?style=for-the-badge&logoColor=black" />
 
