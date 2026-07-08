@@ -75,21 +75,14 @@
 
 <br/>
 
+
 ## 🔥 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=C9D1D9" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=C9D1D9" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=Talha-Yaseen-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=2A5298&fire=FFD700&currStreakLabel=FFD700" />
-</div>
-
----
-
-<div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=C9D1D9" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=C9D1D9" />
-<br/>
+  
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Talha-Yaseen-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=2A5298&fire=FFD700&currStreakLabel=FFD700" />
 </div>
 
