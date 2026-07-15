@@ -181,7 +181,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 </div>
 
----
+
 
 ## 🛠 Technical Overview
 
@@ -217,7 +217,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </tr>
 </table>
 
----
+
 
 ## 🚀 What I Enjoy Building
 
@@ -231,7 +231,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ✔ Software Engineering Projects following Clean Code Principles
 
----
+
 
 ## 🌱 Current Focus
 
@@ -241,71 +241,62 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Currently Learning
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Never%20Stop%20Learning&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:203A43,100:2C5364&text=Continuous%20Learning&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning;Deep+Learning;TensorFlow+%7C+PyTorch;Software+Design+Patterns;System+Design;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building+Real+Projects;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+System+Design;Every+Day+is+a+Chance+to+Improve"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,docker,linux,git,github,vscode&perline=10"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FFCA28?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,linux,git,github,vscode&perline=9"/>
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Learning Roadmap
+
+| 📚 Domain | 🎯 Current Focus |
+|:----------|:-----------------|
+| **Artificial Intelligence** | Machine Learning fundamentals, model evaluation, feature engineering |
+| **Deep Learning** | Neural Networks, CNNs, TensorFlow, PyTorch |
+| **Software Engineering** | SOLID Principles, Design Patterns, Clean Architecture |
+| **System Design** | REST APIs, Scalability, Databases, Software Architecture |
+| **Development Practices** | Git, GitHub, Linux, Docker, Project-Based Learning |
+
+---
+
+## 🚀 Current Goals
+
+- Build practical **Machine Learning** projects from real-world datasets.
+- Strengthen software engineering fundamentals through scalable applications.
+- Learn modern **System Design** concepts and backend architecture.
+- Contribute to **open-source** projects and collaborate with developers.
+- Continuously improve problem-solving and analytical thinking.
+
+---
+
+## 📖 Learning Philosophy
+
+> *I believe the best way to learn is by building. Every concept I study is reinforced through hands-on projects, experimentation, and continuous improvement. My goal is to develop solutions that are practical, maintainable, and impactful.*
+
+<br>
 
 <div align="center">
 
-### 🤖 Machine Learning
-
-<img src="https://img.shields.io/badge/Supervised_Learning-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unsupervised_Learning-34A853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-FBBC05?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model_Evaluation-EA4335?style=for-the-badge"/>
-
-<br><br>
-
-### 🧠 Deep Learning
-
-<img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNNs-7928CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<br><br>
-
-### 🏗 Software Engineering
-
-<img src="https://img.shields.io/badge/SOLID_Principles-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-3F51B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
----
 
 ## 🔥 GitHub Stats
 
