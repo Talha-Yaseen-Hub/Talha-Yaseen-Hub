@@ -169,18 +169,17 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/><br/>
 
-<!-- Using a high-quality, subtle professional GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/216656564-4c3d5ee9-e78c-4cbd-9752-c05a4c5a7d02.gif" width="70"/>
 
 <br/><br/>
 
-<!-- Modern Badge Grid -->
+<!-- Corrected Badge Grid with Supported Logos -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=machinelearning&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=black" />
   <img src="https://img.shields.io/badge/Deep_Learning-1E3C72?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge&logo=patterns" />
-  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=system" />
+  <img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=stackshare&logoColor=white" />
 </div>
 
 <br/><br/>
