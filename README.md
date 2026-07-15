@@ -183,59 +183,62 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql&perline=8"/>
-
-<br>
-
-## 📊 Data Analytics & AI
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<br><br>
-
-## ⚙️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&perline=8"/>
-
-<br>
-
-## 🧩 Core Computer Science
-
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-0A192F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database_Design-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-16A34A?style=for-the-badge"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+</p>
 
 ---
 
-<div align="center">
+## 🤖 AI • Data Analytics
 
-### 🚀 Currently Exploring
+<p align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6B00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-FFCA28?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Design_Patterns-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-</div>
+</p>
+
+
+## 📚 Core Computer Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-0A192F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Design-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-16A34A?style=for-the-badge"/>
+
+</p>
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
