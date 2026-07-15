@@ -60,6 +60,10 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ### 💭 Words I Build By
 
 <!-- Animated Header Gradient -->
