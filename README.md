@@ -106,14 +106,17 @@ Contributing to real-world software solutions and expanding my engineering toolk
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99c2067291a.png" width="60"/>
 
-### Collaborative Growth
+<td width="33%" align="center">
 
+<!-- Updated stable icon -->
+<img src="https://img.shields.io/badge/-Collaborative_Growth-2A5298?style=for-the-badge&logo=slack&logoColor=white" />
+
+<br/><br/>
+
+### Collaborative Growth
 Working alongside professional teams to design and ship scalable, high-impact systems.
 
 </td>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60"/>
 
 ### Continuous Learning
 
