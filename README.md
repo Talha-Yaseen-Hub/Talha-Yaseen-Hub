@@ -5,10 +5,8 @@
 <br>
 
 <a href="https://github.com/Talha-Yaseen-Hub">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub+Profile+👋;BSIT+Student+%40+FCIT+%7C+University+of+the+Punjab;Aspiring+AI+%26+Machine+Learning+Engineer;Building+Projects+%7C+Learning+Every+Day;Open+Source+Enthusiast+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Talha+Yaseen;BSIT+Student+%40+FCIT%2C+University+of+the+Punjab;Aspiring+AI+%26+Machine+Learning+Engineer;Python+%7C+C%2B%2B+%7C+SQL+%7C+Data+Analytics;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>
-
-<br><br>
 
 <!-- ================= Professional Badges ================= -->
 
