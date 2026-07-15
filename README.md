@@ -116,6 +116,10 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
 
+<img src="https://img.shields.io/badge/OOP-1E3C72?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Structures-2A5298?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=flat-square&logoColor=black" />
+
 **Data & Analytics**
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -202,8 +206,38 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+great+together." alt="Typing SVG" />
 
-<br/><br/>
+</div>
 
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="35"/>
+
+### 💭 A Thought I Code By
+
+<table align="center">
+<tr>
+<td align="center" width="700">
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+**— Cory House**
+
+<br/>
+</td>
+</tr>
+</table>
+
+<sub>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
-
 </div>
