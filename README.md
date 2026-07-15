@@ -37,27 +37,79 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F72585&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV;Building+Scalable+Systems;Turning+Coffee+into+Code+%E2%98%95;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
-<!-- Icon set to Red (#FF0000) -->
-<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-2A5298?style=for-the-badge&logo=codeforces&logoColor=%23FF0000" />
-<img src="https://img.shields.io/badge/Company-AURADEV-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-4361EE?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-AURADEV-0D1117?style=for-the-badge&logo=hackthebox&logoColor=F72585" />
+<img src="https://img.shields.io/badge/Status-Actively_Building-3A86FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+<br/><br/>
+
+> *"Bridging the gap between academic foundation and industrial innovation, one line of code at a time."*
 
 <br/>
 
-> *“Bridging the gap between academic foundation and industrial innovation, one line of code at a time.”*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
-- 💻 **Hands-on Development:** Currently contributing to real-world software solutions and expanding my engineering toolkit.
-- 🤝 **Collaborative Growth:** Working alongside professional teams to build scalable, high-impact systems.
-- 📈 **Continuous Learning:** Applying my passion for AI/ML and data-driven logic to solve complex engineering challenges.
+---
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60"/>
+
+### Hands-on Development
+
+Contributing to real-world software solutions and expanding my engineering toolkit with every sprint.
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99c2067291a.png" width="60"/>
+
+### Collaborative Growth
+
+Working alongside professional teams to design and ship scalable, high-impact systems.
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60"/>
+
+### Continuous Learning
+
+Applying my passion for AI/ML and data-driven logic to solve complex engineering challenges.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech in Motion
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,git,github,vscode,linux,tensorflow" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b0bd-83e5c439d977.gif" width="100%">
 
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
 
 ## 🧰 Skills & Tools
