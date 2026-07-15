@@ -38,12 +38,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-2A5298?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-AURADEV-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
+<!-- Matching the AURADEV White/Red theme -->
+<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-%23FF0000?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-AURADEV-000000?style=for-the-badge&logoColor=white" />
 
 <br/>
 
