@@ -53,48 +53,34 @@
 
 <br/>
 
-
 <div align="center">
 
----
+## 💭 Words I Build By
 
-<div align="center">
+<br>
 
----
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #444; border-radius: 10px;">
+      <h3 style="margin-bottom: 5px;">🧭 Philosophy</h3>
+      <p style="font-size: 16px; font-style: italic;">"Discipline in code today builds the intelligence of tomorrow."</p>
+      <sub style="color: gray;">— On habit, patience & long-term craft</sub>
+    </td>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #444; border-radius: 10px;">
+      <h3 style="margin-bottom: 5px;">⚙️ Engineering</h3>
+      <p style="font-size: 16px; font-style: italic;">"Code is like humor. When you have to explain it, it's bad."</p>
+      <sub style="color: gray;">— Cory House</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<br>
 
----
-
-<div align="center">
-
-### 💭 Words I Build By
-
-<br/>
-
-**Philosophy**
-<br/>
-*"Discipline in code today builds the intelligence of tomorrow."*
-<br/>
-<sub>— On habit, patience & long-term craft</sub>
-
-<br/><br/>
-
-**Engineering**
-<br/>
-*"Code is like humor. When you have to explain it, it's bad."*
-<br/>
-<sub>— Cory House</sub>
-
-<br/><br/>
-
-<hr style="width: 50%; opacity: 0.3;">
-
-<p style="font-style: italic;">"Review by review, until it simply makes sense."</p>
+<p align="center" style="font-style: italic; color: #888; letter-spacing: 1px;">
+  "Review by review, until it simply makes sense."
+</p>
 
 </div>
-
-<br/>
 
 ## 🚀 Professional Journey
 
