@@ -363,36 +363,36 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <td align="center" width="33%">
 
 <a href="mailto:talhavectorarts@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
-### Email
+<br>
 
-**talhavectorarts@gmail.com**
+**Email**
 
 </td>
 
 <td align="center" width="33%">
 
-<a href="https://www.linkedin.com/in/talha-yaseen">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+<a href="https://www.linkedin.com/in/talha-yaseen-44a41a341/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
-### LinkedIn
+<br>
 
-**Professional Profile**
+**LinkedIn**
 
 </td>
 
 <td align="center" width="33%">
 
 <a href="https://github.com/Talha-Yaseen-Hub">
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
-### GitHub
+<br>
 
-**Open Source Portfolio**
+**GitHub**
 
 </td>
 
