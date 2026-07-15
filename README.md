@@ -1,24 +1,36 @@
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Information%20Technology%20%7C%20FCIT%2C%20University%20of%20the%20Punjab&descAlignY=55&descSize=16" width="100%"/>
+<p align="center">
 
-<a href="https://github.com/TalhaYaseen">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;BSIT+Student+at+FCIT%2C+PU;Curious+about+Data%2C+Code+%26+Intelligence;Currently+Diving+into+AI+%2F+ML+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/🎓_BSIT-FCIT_University_of_the_Punjab-0A192F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📅_Batch-2024-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖_Focus-Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💻_Programming-C_|_C++_|_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/📊_Interested_in-Data_Analytics-06B6D4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-Machine_Learning-FFCA28?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BSIT%20Student-FCIT%2C%20PU-1E3C72?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Batch-2024-2A5298?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning%20AI%2FML-FFD700?style=for-the-badge&logoColor=black" />
+<p align="center">
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Talha-Yaseen-Hub&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
-<img src="https://komarev.com/ghpvc/?username=TalhaYaseen&style=for-the-badge&color=2A5298&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=Followers&color=181717"/>
 
-</div>
+<img src="https://img.shields.io/github/stars/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=Stars&color=FFD700"/>
 
-<br/>
+</p>
 
 ## 👋 About Me
 
@@ -320,50 +332,76 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/>
 
-## 📫 Let's Connect
+<!-- ======================== CONNECT ======================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&section=header&text=Let's%20Build%20Something%20Amazing!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-<br/><br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Let's+connect+and+build+something+great+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Always+Open+to+Learning;Let's+Collaborate+on+Exciting+Projects;Open+Source+%7C+AI+%7C+Data+Science;Feel+Free+to+Reach+Out!"/>
 
-<br/><br/>
+<br><br>
 
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/TalhaYaseen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 🤝 Connect With Me
+
+<a href="mailto:talhavectorarts@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://linkedin.com/in/talha-yaseen">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
+<a href="https://github.com/Talha-Yaseen-Hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💼 Find Me Around the Web
+
+<a href="https://github.com/Talha-Yaseen-Hub">
+<img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/talha-yaseen">
+<img src="https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:talhavectorarts@gmail.com">
+<img src="https://img.shields.io/badge/Business_Inquiries-Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+<img width="420" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+<br><br>
+
+> ### ⭐ *"Great software is built through curiosity, collaboration, and continuous learning."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=130&section=header&text=%22Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.%22&fontSize=18&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=header&text=Daily%20Inspiration&fontSize=38&fontColor=ffffff"/>
 
-<sub>— Cory House</sub>
+<br><br>
 
-<br/><br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<sub>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</sub>
+<br><br>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
