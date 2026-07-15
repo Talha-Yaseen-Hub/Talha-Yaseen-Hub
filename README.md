@@ -215,8 +215,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
@@ -239,6 +237,8 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img src="https://img.shields.io/badge/OOP-16A34A?style=for-the-badge"/>
 
 </p>
+
+<br><br>
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
