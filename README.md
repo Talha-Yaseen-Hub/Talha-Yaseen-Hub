@@ -278,30 +278,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ---
 
-<div align="center">
-
-### 💻 Learning by Building
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Yaseen-Hub&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Talha-Yaseen-Hub&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
-
-<br><br>
-
-<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</div>
-
 ## 🔥 GitHub Stats
 
 <div align="center">
