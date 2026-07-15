@@ -32,7 +32,6 @@
 
 <br/>
 
----
 
 ## 🚀 Professional Journey
 
@@ -42,8 +41,8 @@
 
 <br/>
 
-<!-- Matching the AURADEV White/Red theme -->
-<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-%23FF0000?style=for-the-badge&logo=codeforces&logoColor=white" />
+<!-- Icon set to Red (#FF0000) -->
+<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-2A5298?style=for-the-badge&logo=codeforces&logoColor=%23FF0000" />
 <img src="https://img.shields.io/badge/Company-AURADEV-000000?style=for-the-badge&logoColor=white" />
 
 <br/>
@@ -56,7 +55,10 @@
 - 🤝 **Collaborative Growth:** Working alongside professional teams to build scalable, high-impact systems.
 - 📈 **Continuous Learning:** Applying my passion for AI/ML and data-driven logic to solve complex engineering challenges.
 
----
+</div>
+
+<br/>
+
 
 ## 🧰 Skills & Tools
 
