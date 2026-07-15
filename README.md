@@ -173,13 +173,13 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/><br/>
 
-<!-- Corrected Badge Grid with Supported Logos -->
+<!-- Stable Badge Grid with Guaranteed Rendering -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Deep_Learning-1E3C72?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge&logo=stackexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 <br/><br/>
