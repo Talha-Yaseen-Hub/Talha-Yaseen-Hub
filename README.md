@@ -343,7 +343,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Let's+Collaborate+on+Meaningful+Projects;Artificial+Intelligence+•+Machine+Learning;Software+Engineering+•+Data+Analytics;Always+Open+to+Learning+and+Innovation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Let%27s+Collaborate+on+Meaningful+Projects;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+Data+Analytics;Always+Open+to+Learning+and+Innovation" alt="Typing SVG" />
 
 <br><br>
 
