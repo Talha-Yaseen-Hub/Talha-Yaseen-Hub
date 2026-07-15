@@ -165,80 +165,85 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== SKILLS ===================== -->
 
-#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header&text=Technical%20Expertise&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Skills+One+Project+at+a+Time;Learning+Modern+Technologies;Writing+Clean+and+Scalable+Code"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Skills+Through+Real+Projects;Learning+Modern+Technologies;Writing+Clean+and+Maintainable+Code"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,tensorflow,pytorch,git,github,vscode,linux&perline=10"/>
 
 </div>
 
 ---
 
+## 🛠 Technical Overview
+
+<table>
+<tr>
+<td width="28%"><b>💻 Programming</b></td>
+<td>C, C++, Python, SQL, Object-Oriented Programming, Problem Solving</td>
+</tr>
+
+<tr>
+<td><b>📊 Data & Analytics</b></td>
+<td>Power BI, Microsoft Excel, Pandas, NumPy, Data Cleaning, Data Visualization</td>
+</tr>
+
+<tr>
+<td><b>🤖 Artificial Intelligence</b></td>
+<td>Machine Learning Fundamentals, TensorFlow, PyTorch, Scikit-Learn (Learning)</td>
+</tr>
+
+<tr>
+<td><b>🗄 Database Systems</b></td>
+<td>MySQL, Oracle SQL, Database Design, Normalization, Relational Databases</td>
+</tr>
+
+<tr>
+<td><b>🛠 Development Tools</b></td>
+<td>Git, GitHub, VS Code, Linux, Jupyter Notebook</td>
+</tr>
+
+<tr>
+<td><b>📚 Computer Science</b></td>
+<td>Data Structures & Algorithms, OOP, Software Development, Design Patterns, System Design (Learning)</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Enjoy Building
+
+✔ Desktop Applications using C++ and Python
+
+✔ Database-driven Systems with SQL
+
+✔ Data Analytics Dashboards and Reports
+
+✔ AI & Machine Learning Projects
+
+✔ Software Engineering Projects following Clean Code Principles
+
+---
+
+## 🌱 Current Focus
+
+> I enjoy solving real-world problems through software and data. My current learning journey is centered around **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **System Design**, while continuously strengthening my programming and analytical skills through practical projects.
+
+<br>
+
 <div align="center">
 
-## 💻 Programming Languages
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
-</p>
-
----
-
-## 🤖 AI • Data Analytics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
----
-
-## 🛠 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
-
-
-## 📚 Core Computer Science
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-0A192F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database_Design-0891B2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OOP-16A34A?style=for-the-badge"/>
-
-</p>
-
-<br><br>
+</div>
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
