@@ -64,40 +64,34 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ### 💭 Words I Build By
 
-<!-- Animated Header Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1e3c72,2a5298,FFD700&height=4&width=700" />
+<br/>
+
+**Philosophy**
+<br/>
+*"Discipline in code today builds the intelligence of tomorrow."*
+<br/>
+<sub>— On habit, patience & long-term craft</sub>
 
 <br/><br/>
 
-<!-- Modern Border Container -->
-<div style="border: 2px solid rgba(42, 82, 152, 0.3); border-radius: 20px; padding: 40px; background: rgba(255, 255, 255, 0.02); backdrop-filter: blur(10px); width: 85%;">
+**Engineering**
+<br/>
+*"Code is like humor. When you have to explain it, it's bad."*
+<br/>
+<sub>— Cory House</sub>
 
-<!-- Quote 1 -->
-<img src="https://img.shields.io/badge/Philosophy-Discipline_&_Patience-2A5298?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
-<p style="font-size: 1.3em; font-style: italic; color: #ffffff; margin: 20px 0;">
-  "Discipline in code today builds the intelligence of tomorrow."
-</p>
-<p style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 2px; color: #A0A0A0; margin-bottom: 30px;">— On habit, patience & long-term craft</p>
-
-<!-- Animated Divider -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=3000&color=2A5298&center=true&width=200&lines=❖+❖+❖" />
-
-<!-- Quote 2 -->
 <br/><br/>
-<img src="https://img.shields.io/badge/Engineering-Simplicity-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-<p style="font-size: 1.3em; font-style: italic; color: #ffffff; margin: 20px 0;">
-  "Code is like humor. When you have to explain it, it's bad."
-</p>
-<p style="font-size: 0.85em; text-transform: uppercase; letter-spacing: 2px; color: #A0A0A0; margin-bottom: 20px;">— Cory House</p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #2A5298, transparent); margin: 30px 0;">
+<hr style="width: 50%; opacity: 0.3;">
 
-<!-- Summary Footer with Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&width=650&lines=Great+work+isn't+written+in+a+rush+%E2%80%94+it's+refined+line+by+line.;Review+by+review%2C+until+it+simply+makes+sense." />
+<p style="font-style: italic;">"Review by review, until it simply makes sense."</p>
 
-</div>
 </div>
 
 <br/>
