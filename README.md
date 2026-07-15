@@ -339,7 +339,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== LET'S CONNECT ===================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Handshake.png" width="35"/> Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -347,84 +347,48 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br><br>
 
-<img width="430" src="https://user-images.githubusercontent.com/74038190/216656965-9bcf5b88-f9b9-43c5-9b05-1fb0b1bfb4b5.gif"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<a href="mailto:talhavectorarts@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-</a>
-
-<br>
-
-**Email**
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://www.linkedin.com/in/talha-yaseen-44a41a341/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-</a>
-
-<br>
-
-**LinkedIn**
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/Talha-Yaseen-Hub">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
-
-<br>
-
-**GitHub**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 💬 Let's Build Together
-
-<div align="center">
-
-I enjoy collaborating on projects involving **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**.
-
-Whether it's contributing to **Open Source**, discussing innovative ideas, or building impactful solutions, I'm always happy to connect with developers, students, and technology enthusiasts around the world.
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 💡 Quote to Remember
-
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=24&duration=4500&pause=1500&color=F7B500&center=true&vCenter=true&width=1000&lines=%22Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.%22;%E2%80%94+Harold+Abelson;Keep+Learning.+Keep+Building.+Keep+Growing." />
+<img width="420" src="https://user-images.githubusercontent.com/74038190/216656965-9bcf5b88-f9b9-43c5-9b05-1fb0b1bfb4b5.gif"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:talhavectorarts@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/talha-yaseen-44a41a341/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Talha-Yaseen-Hub">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+</p>
+
+<br>
+
+### 💬 Let's Build Together
+
+*I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**. Whether it's building innovative solutions, contributing to open source, or exchanging ideas, I'm always excited to connect with developers and learners around the world.*
+
+<br><br>
+
+## 💡 Developer's Mindset
+
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=23&duration=4500&pause=1800&color=F7B500&center=true&vCenter=true&width=1100&lines=%22Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.%22;—+Harold+Abelson;Learning+Never+Stops.;Build.+Learn.+Share.+Repeat."/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
+
+---
