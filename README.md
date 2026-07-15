@@ -55,30 +55,45 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 💭 Words I Build By
 
-<br>
+<!-- Top Animated Gradient Boundary -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" style="background-color: transparent; border: none;">
   <tr>
-    <td width="50%" align="center" style="padding: 20px; border: 1px solid #444; border-radius: 10px;">
-      <h3 style="margin-bottom: 5px;">🧭 Philosophy</h3>
-      <p style="font-size: 16px; font-style: italic;">"Discipline in code today builds the intelligence of tomorrow."</p>
-      <sub style="color: gray;">— On habit, patience & long-term craft</sub>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <!-- Professional Philosophy Badge -->
+      <img src="https://img.shields.io/badge/Philosophy-FF007F?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Philosophy Badge">
+      <br><br>
+      <h3 align="center"><i>"Discipline in code today builds the intelligence of tomorrow."</i></h3>
+      <p align="center" style="color: gray;"><sub>— On habit, patience & long-term craft</sub></p>
+      <br>
     </td>
-    <td width="50%" align="center" style="padding: 20px; border: 1px solid #444; border-radius: 10px;">
-      <h3 style="margin-bottom: 5px;">⚙️ Engineering</h3>
-      <p style="font-size: 16px; font-style: italic;">"Code is like humor. When you have to explain it, it's bad."</p>
-      <sub style="color: gray;">— Cory House</sub>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <!-- Professional Engineering Badge -->
+      <img src="https://img.shields.io/badge/Engineering-0070F3?style=for-the-badge&logo=gear&logoColor=white" alt="Engineering Badge">
+      <br><br>
+      <h3 align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></h3>
+      <p align="center" style="color: gray;"><sub>— Cory House</sub></p>
+      <br>
     </td>
   </tr>
 </table>
 
-<br>
+<!-- Bottom Animated Gradient Boundary -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
 
-<p align="center" style="font-style: italic; color: #888; letter-spacing: 1px;">
-  "Review by review, until it simply makes sense."
-</p>
+<br><br>
+
+<!-- Moving Typing Animation Quote -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=%22Review+by+review,+until+it+simply+makes+sense.%22" alt="Animated Typing Quote" />
+</a>
 
 </div>
 
