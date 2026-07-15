@@ -32,6 +32,31 @@
 
 <br/>
 
+---
+
+## 🚀 Professional Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-2A5298?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-AURADEV-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
+
+<br/>
+
+> *“Bridging the gap between academic foundation and industrial innovation, one line of code at a time.”*
+
+</div>
+
+- 💻 **Hands-on Development:** Currently contributing to real-world software solutions and expanding my engineering toolkit.
+- 🤝 **Collaborative Growth:** Working alongside professional teams to build scalable, high-impact systems.
+- 📈 **Continuous Learning:** Applying my passion for AI/ML and data-driven logic to solve complex engineering challenges.
+
+---
+
 ## 🧰 Skills & Tools
 
 <div align="center">
