@@ -57,22 +57,31 @@
 
 <div align="center">
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
+
+<br/><br/>
+
+<table width="850">
 <tr>
-<td align="center" width="100%">
+<td align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="60"/>
+### 🧭 *"Discipline in code today builds the intelligence of tomorrow."*
 
-<h3>💡 "Discipline in code today builds the intelligence of tomorrow."</h3>
+<sub>— on habit, patience & long-term craft</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=500" />
+<br/>
 
-<h4>🧠 "Code is like humor. When you have to explain it, it's bad."</h4>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2&width=500" />
+
+<br/>
+
+### 🎭 *"Code is like humor. When you have to explain it, it's bad."*
+
 <sub>— Cory House</sub>
 
 <br/><br/>
 
-<sub><i>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</i></sub>
+<i>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</i>
 
 </td>
 </tr>
@@ -110,9 +119,9 @@
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60"/>
+<h2>🛠️</h2>
 
-### 🛠️ Hands-on Development
+### Hands-on Development
 
 Contributing to real-world software solutions and expanding my engineering toolkit with every sprint.
 
@@ -121,9 +130,9 @@ Contributing to real-world software solutions and expanding my engineering toolk
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4a01-a934-cd8e769c98e3.png" width="60"/>
+<h2>🤝</h2>
 
-### 🤝 Collaborative Growth
+### Collaborative Growth
 
 Working alongside professional teams to design and ship scalable, high-impact systems.
 
@@ -132,9 +141,9 @@ Working alongside professional teams to design and ship scalable, high-impact sy
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60"/>
+<h2>📚</h2>
 
-### 📚 Continuous Learning
+### Continuous Learning
 
 Applying my passion for AI/ML and data-driven logic to solve complex engineering challenges.
 
@@ -156,29 +165,46 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
 
 <br/><br/>
 
-**Languages & Programming**
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/OOP-1E3C72?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Structures-2A5298?style=flat-square" />
-<img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=flat-square&logoColor=black" />
+<br/><br/>
 
-**Data & Analytics**
+### 📊 Data & Analytics
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Data%20Analytics-1E3C72?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-**Tools & Platforms**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+### 🧩 Core Concepts
+
+<img src="https://img.shields.io/badge/OOP-1E3C72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures-2A5298?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-FFD700?style=for-the-badge&logoColor=black" />
+
+<br/><br/>
+
+### ⚙️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
 
 </div>
 
@@ -188,18 +214,14 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&width=850" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656564-4c3d5ee9-e78c-4cbd-9752-c05a4c5a7d02.gif" width="70"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black" />
 <img src="https://img.shields.io/badge/Deep_Learning-1E3C72?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge&logo=stackedit&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
 <br/><br/>
@@ -227,6 +249,11 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </td>
 </tr>
 </table>
+
+<div align="center">
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&width=850" />
+</div>
 
 <br/>
 
@@ -276,28 +303,27 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Open+to+internships+%26+collaboration+opportunities;Let's+connect+and+build+something+great+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=Let's+connect+and+build+something+great+together!" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin-handle">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/TalhaYaseen">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼_Open_to-Internships-1E3C72?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝_Open_to-Collaboration-2A5298?style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
 
 </div>
 
@@ -306,6 +332,16 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=130&section=header&text=%22Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.%22&fontSize=18&fontColor=ffffff&fontAlignY=45" width="100%"/>
+
+<sub>— Cory House</sub>
+
+<br/><br/>
+
+<sub>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</sub>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
