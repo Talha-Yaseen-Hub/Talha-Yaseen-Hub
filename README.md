@@ -53,40 +53,44 @@
 
 <br/>
 
-## 💬 Words I Build By
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&width=850" />
+### 💭 Words I Build By
+
+<!-- Decorative Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1e3c72,2a5298,FFD700&height=4&width=700" />
 
 <br/><br/>
 
-<table width="850">
-<tr>
-<td align="center">
+<div align="center" style="background: rgba(42, 82, 152, 0.05); padding: 30px; border-radius: 20px; border: 1px solid rgba(42, 82, 152, 0.2); width: 85%;">
 
-### 🧭 *"Discipline in code today builds the intelligence of tomorrow."*
+<!-- Quote 1 -->
+<img src="https://img.shields.io/badge/Philosophy-Discipline_&_Patience-2A5298?style=for-the-badge&logo=codeforces" />
+<p style="font-size: 1.2em; font-style: italic; color: #2A5298; margin: 15px 0;">
+  "Discipline in code today builds the intelligence of tomorrow."
+</p>
+<p style="font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px; color: #555;">— On habit, patience & long-term craft</p>
 
-<sub>— on habit, patience & long-term craft</sub>
+<hr style="width: 50%; border: 0.5px solid rgba(42, 82, 152, 0.3); margin: 25px auto;">
+
+<!-- Quote 2 -->
+<img src="https://img.shields.io/badge/Engineering-Simplicity-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+<p style="font-size: 1.2em; font-style: italic; color: #2A5298; margin: 15px 0;">
+  "Code is like humor. When you have to explain it, it's bad."
+</p>
+<p style="font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px; color: #555;">— Cory House</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=2&width=500" />
+<!-- Summary Footer -->
+<div style="background: #ffffff; padding: 10px; border-radius: 8px; border-left: 4px solid #FFD700; display: inline-block;">
+  <p style="font-size: 0.9em; color: #333; margin: 0;">
+    <em>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</em>
+  </p>
+</div>
 
-<br/>
-
-### 🎭 *"Code is like humor. When you have to explain it, it's bad."*
-
-<sub>— Cory House</sub>
-
-<br/><br/>
-
-<i>Great work isn't written in a rush — it's refined line by line, review by review, until it simply makes sense.</i>
-
-</td>
-</tr>
-</table>
-
+</div>
 </div>
 
 <br/>
