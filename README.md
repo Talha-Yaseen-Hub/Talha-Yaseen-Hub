@@ -1,36 +1,52 @@
-<br/>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Information%20Technology%20%7C%20FCIT,%20University%20of%20the%20Punjab&descAlignY=55&descSize=17"/>
 
-<img src="https://img.shields.io/badge/🎓_BSIT-FCIT_University_of_the_Punjab-0A192F?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/📅_Batch-2024-2563EB?style=for-the-badge"/>
+<a href="https://github.com/Talha-Yaseen-Hub">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub+Profile+👋;BSIT+Student+%40+FCIT+%7C+University+of+the+Punjab;Aspiring+AI+%26+Machine+Learning+Engineer;Building+Projects+%7C+Learning+Every+Day;Open+Source+Enthusiast+🚀"/>
+</a>
 
-<img src="https://img.shields.io/badge/🤖_Focus-Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<br><br>
 
-</p>
+<!-- ================= Professional Badges ================= -->
 
-<p align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/University-FCIT%20%7C%20Punjab%20University-0A192F?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/💻_Programming-C_|_C++_|_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Degree-BS%20Information%20Technology-2563EB?style=for-the-badge&logo=book&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/📊_Interested_in-Data_Analytics-06B6D4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Graduation-2028-7C3AED?style=for-the-badge&logo=calendar&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🌱_Currently_Learning-Machine_Learning-FFCA28?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<br><br>
 
-</p>
+<img src="https://custom-icon-badges.demolab.com/badge/Focus-Artificial%20Intelligence-FF6B00?style=for-the-badge&logo=cpu&logoColor=white"/>
 
-<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Learning-Machine%20Learning-FFC107?style=for-the-badge&logo=rocket&logoColor=black"/>
 
-<p align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/Interest-Data%20Analytics-06B6D4?style=for-the-badge&logo=graph&logoColor=white"/>
 
-<img src="https://komarev.com/ghpvc/?username=Talha-Yaseen-Hub&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<br><br>
 
-<img src="https://img.shields.io/github/followers/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=Followers&color=181717"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,mysql,git,github,vscode,linux&perline=10"/>
 
-<img src="https://img.shields.io/github/stars/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=Stars&color=FFD700"/>
+<br><br>
 
-</p>
+<!-- ================= Dynamic Badges ================= -->
+
+<img src="https://komarev.com/ghpvc/?username=Talha-Yaseen-Hub&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=TOTAL+STARS&color=F7B500"/>
+
+<img src="https://img.shields.io/github/last-commit/Talha-Yaseen-Hub/Talha-Yaseen-Hub?style=for-the-badge&logo=github&label=LAST+UPDATE&color=2EA44F"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
 
 ## 👋 About Me
 
