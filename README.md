@@ -347,7 +347,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br><br>
 
-<img width="420" src="https://user-images.githubusercontent.com/74038190/216656965-9bcf5b88-f9b9-43c5-9b05-1fb0b1bfb4b5.gif"/>
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 <br><br>
 
@@ -359,13 +359,11 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/talha-yaseen-44a41a341/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Talha-Yaseen-Hub">
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
@@ -380,15 +378,5 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 *I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**. Whether it's building innovative solutions, contributing to open source, or exchanging ideas, I'm always excited to connect with developers and learners around the world.*
 
 <br><br>
-
-## 💡 Developer's Mindset
-
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=23&duration=4500&pause=1800&color=F7B500&center=true&vCenter=true&width=1100&lines=%22Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.%22;—+Harold+Abelson;Learning+Never+Stops.;Build.+Learn.+Share.+Repeat."/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
-
-</div>
 
 ---
