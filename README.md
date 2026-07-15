@@ -165,7 +165,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== SKILLS ===================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
+#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
 
 <div align="center">
 
@@ -177,7 +177,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,tensorflow,pytorch,git,github,vscode,linux&perline=10"/>
 
 </div>
 
@@ -246,7 +245,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
+#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
 
 <div align="center">
 
@@ -257,8 +256,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building+Real+Projects;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+System+Design;Every+Day+is+a+Chance+to+Improve"/>
 
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,linux,git,github,vscode&perline=9"/>
 
 </div>
 
@@ -340,76 +337,94 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/>
 
-<!-- ======================== CONNECT ======================== -->
+<!-- ===================== LET'S CONNECT ===================== -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Let's Connect
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Handshake.png" width="35"/> Let's Connect
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&section=header&text=Let's%20Build%20Something%20Amazing!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Always+Open+to+Learning;Let's+Collaborate+on+Exciting+Projects;Open+Source+%7C+AI+%7C+Data+Science;Feel+Free+to+Reach+Out!"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Let's+Collaborate+on+Meaningful+Projects;Artificial+Intelligence+•+Machine+Learning;Software+Engineering+•+Data+Analytics;Always+Open+to+Learning+and+Innovation"/>
 
 <br><br>
 
-### 🤝 Connect With Me
-
-<a href="mailto:talhavectorarts@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/talha-yaseen">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Talha-Yaseen-Hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 💼 Find Me Around the Web
-
-<a href="https://github.com/Talha-Yaseen-Hub">
-<img src="https://img.shields.io/badge/Open_Source-Contributor-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/talha-yaseen">
-<img src="https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:talhavectorarts@gmail.com">
-<img src="https://img.shields.io/badge/Business_Inquiries-Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-<img width="420" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
-
-<br><br>
-
-> ### ⭐ *"Great software is built through curiosity, collaboration, and continuous learning."*
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+<img width="430" src="https://user-images.githubusercontent.com/74038190/216656965-9bcf5b88-f9b9-43c5-9b05-1fb0b1bfb4b5.gif"/>
 
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=header&text=Daily%20Inspiration&fontSize=38&fontColor=ffffff"/>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="mailto:talhavectorarts@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+</a>
+
+### Email
+
+**talhavectorarts@gmail.com**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://www.linkedin.com/in/talha-yaseen">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+</a>
+
+### LinkedIn
+
+**Professional Profile**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/Talha-Yaseen-Hub">
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+</a>
+
+### GitHub
+
+**Open Source Portfolio**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💬 Let's Build Together
+
+<div align="center">
+
+I enjoy collaborating on projects involving **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**.
+
+Whether it's contributing to **Open Source**, discussing innovative ideas, or building impactful solutions, I'm always happy to connect with developers, students, and technology enthusiasts around the world.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💡 Quote to Remember
+
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=24&duration=4500&pause=1500&color=F7B500&center=true&vCenter=true&width=1000&lines=%22Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.%22;%E2%80%94+Harold+Abelson;Keep+Learning.+Keep+Building.+Keep+Growing." />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
