@@ -165,7 +165,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== SKILLS ===================== -->
 
-#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
 
 <div align="center">
 
@@ -245,7 +245,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
-#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
 
 <div align="center">
 
