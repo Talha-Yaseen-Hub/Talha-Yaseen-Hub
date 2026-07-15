@@ -216,52 +216,120 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/>
 
-## 🌱 Currently Learning
+<!-- ===================================================== -->
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Currently Learning
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&width=850" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Never%20Stop%20Learning&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep_Learning-1E3C72?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Design_Patterns-2A5298?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning;Deep+Learning;TensorFlow+%7C+PyTorch;Software+Design+Patterns;System+Design;Always+Building+Always+Learning"/>
 
-<br/><br/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,docker,linux,git,github,vscode&perline=10"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FFCA28?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
 
-<table align="center" width="90%">
+---
+
+<table align="center">
 <tr>
-<td width="100%">
 
-<strong>🤖 ML Fundamentals</strong>
-<br/>
-<img src="https://progress-bar.dev/45/?title=progress&width=500&color=FFD700" />
-<br/><br/>
+<td align="center" width="33%">
 
-<strong>🏗️ Software Design Patterns</strong>
-<br/>
-<img src="https://progress-bar.dev/35/?title=progress&width=500&color=2A5298" />
-<br/><br/>
+### 🤖 Machine Learning
 
-<strong>⚙️ System Design Basics</strong>
-<br/>
-<img src="https://progress-bar.dev/25/?title=progress&width=500&color=1E3C72" />
+🌱 Supervised Learning
+
+🌱 Unsupervised Learning
+
+🌱 Feature Engineering
+
+🌱 Model Evaluation
+
+🌱 Scikit-Learn
 
 </td>
+
+<td align="center" width="33%">
+
+### 🧠 Deep Learning
+
+⚡ Neural Networks
+
+⚡ TensorFlow
+
+⚡ PyTorch
+
+⚡ CNNs
+
+⚡ Model Optimization
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏗 Engineering
+
+✔ Design Patterns
+
+✔ SOLID Principles
+
+✔ System Design
+
+✔ REST APIs
+
+✔ Scalable Software
+
+</td>
+
 </tr>
 </table>
 
+---
+
 <div align="center">
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&width=850" />
+
+### 📚 Current Learning Roadmap
+
+| Technology | Status |
+|------------|--------|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | 🟢 Advanced |
+| <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> | 🟡 Learning |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> | 🟡 Learning |
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> | 🟡 Learning |
+| <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square"/> | 🔵 Studying |
+| <img src="https://img.shields.io/badge/Design_Patterns-00599C?style=flat-square"/> | 🔵 Studying |
+
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
 
 ## 🔥 GitHub Stats
 
