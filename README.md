@@ -12,20 +12,6 @@
 
 <!-- ================= Professional Badges ================= -->
 
-<img src="https://custom-icon-badges.demolab.com/badge/University-FCIT%20%7C%20Punjab%20University-0A192F?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-
-<img src="https://custom-icon-badges.demolab.com/badge/Degree-BS%20Information%20Technology-2563EB?style=for-the-badge&logo=book&logoColor=white"/>
-
-<img src="https://custom-icon-badges.demolab.com/badge/Graduation-2028-7C3AED?style=for-the-badge&logo=calendar&logoColor=white"/>
-
-<br><br>
-
-<img src="https://custom-icon-badges.demolab.com/badge/Focus-Artificial%20Intelligence-FF6B00?style=for-the-badge&logo=cpu&logoColor=white"/>
-
-<img src="https://custom-icon-badges.demolab.com/badge/Learning-Machine%20Learning-FFC107?style=for-the-badge&logo=rocket&logoColor=black"/>
-
-<img src="https://custom-icon-badges.demolab.com/badge/Interest-Data%20Analytics-06B6D4?style=for-the-badge&logo=graph&logoColor=white"/>
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,mysql,git,github,vscode,linux&perline=10"/>
