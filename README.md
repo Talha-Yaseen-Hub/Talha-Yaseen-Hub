@@ -276,7 +276,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 </div>
 
----
 <br><br>
 ## 🎯 Learning Roadmap
 
