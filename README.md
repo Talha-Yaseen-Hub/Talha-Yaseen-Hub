@@ -86,59 +86,25 @@
 
 ## 🚀 Professional Journey
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,30,34&section=header&text=My%20Experience&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,30,34&section=header&text=Professional%20Experience&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<br/>
+
+### <div align="center">
+
+| ![](https://img.shields.io/badge/-Software%20Engineer%20Intern-1E3C72?style=flat-square&logo=code) | ![](https://img.shields.io/badge/-AURADEV-FFD700?style=flat-square&logo=briefcase) | ![](https://img.shields.io/badge/-Building%20Innovation-2A5298?style=flat-square&logo=rocket) |
+|:---:|:---:|:---:|
+| **Bridging academic foundation with industrial innovation** | | |
+
+<br/>
+
+| ![](https://img.shields.io/badge/-Frontend%20Engineer-00B4DB?style=flat-square&logo=react) | ![](https://img.shields.io/badge/-FlyRankAi-FF6B6B?style=flat-square&logo=briefcase) | ![](https://img.shields.io/badge/-Shipping%20Features-4ECDC4?style=flat-square&logo=rocket) |
+|:---:|:---:|:---:|
+| **Crafting responsive, user-centric interfaces** | | |
 
 </div>
 
 <br/>
-
-<!-- ====== AURADEV ROLE ====== -->
-<div align="center">
-
-<div style="background: linear-gradient(135deg, rgba(26,35,126,0.1) 0%, rgba(42,82,152,0.1) 100%); border: 2px solid #2A5298; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 900px; backdrop-filter: blur(10px);">
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/⚙️_ROLE-Software_Engineer_Intern-1E3C72?style=for-the-badge&labelColor=0D1117&color=2A5298" />
-  <img src="https://img.shields.io/badge/🏢_COMPANY-AURADEV-FFD700?style=for-the-badge&labelColor=0D1117&color=1a237e" />
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/✨_STATUS-Actively_Building-2A5298?style=for-the-badge&labelColor=0D1117&color=00B4DB" />
-</div>
-
-<div style="color: #58A6FF; font-size: 16px; font-style: italic; margin-top: 15px; border-top: 1px solid #2A5298; padding-top: 15px;">
-  <p style="margin: 0; color: #FFD700;">🎯 Bridging the gap between academic foundation and industrial innovation</p>
-</div>
-
-</div>
-
-</div>
-
-<!-- ====== FLYRANKRAI ROLE ====== -->
-<div align="center">
-
-<div style="background: linear-gradient(135deg, rgba(255,107,107,0.1) 0%, rgba(78,205,196,0.1) 100%); border: 2px solid #FF6B6B; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 900px; backdrop-filter: blur(10px);">
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/💻_ROLE-Frontend_Engineer-00B4DB?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
-  <img src="https://img.shields.io/badge/🎯_COMPANY-FlyRankAi-4ECDC4?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/🚀_STATUS-Actively_Shipping-4ECDC4?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
-</div>
-
-<div style="color: #FF6B6B; font-size: 16px; font-style: italic; margin-top: 15px; border-top: 1px solid #FF6B6B; padding-top: 15px;">
-  <p style="margin: 0; color: #4ECDC4;">✨ Crafting responsive, user-centric interfaces and modern web experiences</p>
-</div>
-
-</div>
-
-</div>
-
-<br/><br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
