@@ -75,14 +75,13 @@
 <!-- Bottom Animated Gradient Boundary -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
 
-<br><br>
-
 <!-- Moving Typing Animation Quote -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=%22Review+by+review,+until+it+simply+works.%22;%22Great+code+is+never+finished,+only+refined.%22;%22Build+in+public,+learn+in+the+open.%22" />
 </a>
 
 </div>
+<br><br>
 
 ## 🚀 Professional Journey
 
