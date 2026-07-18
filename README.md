@@ -85,7 +85,7 @@
 </a>
 
 </div>
-
+<br><br>
 ## 🚀 Professional Journey
 
 <div align="center">
@@ -148,6 +148,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </tr>
 </table>
 
+<br><br>
 </div>
 
 <div align="center">
@@ -210,7 +211,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </table>
 
 
-
+<br><br>
 ## 🚀 What I Enjoy Building
 
 ✔ Desktop Applications using C++ and Python
@@ -224,7 +225,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 ✔ Software Engineering Projects following Clean Code Principles
 
 
-
+<br><br>
 ## 🌱 Current Focus
 
 > I enjoy solving real-world problems through software and data. My current learning journey is centered around **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **System Design**, while continuously strengthening my programming and analytical skills through practical projects.
@@ -235,7 +236,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 
 </div>
-
+<br><br>
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
@@ -253,7 +254,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </div>
 
 ---
-
+<br><br>
 ## 🎯 Learning Roadmap
 
 | 📚 Domain | 🎯 Current Focus |
@@ -265,7 +266,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 | **Development Practices** | Git, GitHub, Linux, Docker, Project-Based Learning |
 
 ---
-
+<br><br>
 ## 🚀 Current Goals
 
 - Build practical **Machine Learning** projects from real-world datasets.
@@ -275,7 +276,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - Continuously improve problem-solving and analytical thinking.
 
 ---
-
+<br><br>
 ## 📖 Learning Philosophy
 
 > *I believe the best way to learn is by building. Every concept I study is reinforced through hands-on projects, experimentation, and continuous improvement. My goal is to develop solutions that are practical, maintainable, and impactful.*
@@ -287,7 +288,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
+<br><br>
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -331,7 +332,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </table>
 
 <br/>
-
+<br><br>
 <!-- ===================== LET'S CONNECT ===================== -->
 
 # 🤝 Let's Connect
@@ -367,7 +368,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </p>
 
 <br>
-
+<br><br>
 ### 💬 Let's Build Together
 
 *I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**. Whether it's building innovative solutions, contributing to open source, or exchanging ideas, I'm always excited to connect with developers and learners around the world.*
