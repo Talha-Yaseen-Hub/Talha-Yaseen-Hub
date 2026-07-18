@@ -106,14 +106,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-Frontend_Engineer-00B4DB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-FlyRankAi-FF6B6B?style=for-the-badge&logo=airbnb&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Actively_Shipping-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
-
-<br/><br/>
-
-> *"Crafting responsive, user-centric interfaces and modern web experiences"*
-
 <br/>
 
 <table>
@@ -216,7 +208,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </table>
 
 
-
+<br/><br/>
 ## 🚀 What I Enjoy Building
 
 ✔ Desktop Applications using C++ and Python
@@ -232,7 +224,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 ✔ Software Engineering Projects following Clean Code Principles
 
 
-
+<br/><br/>
 ## 🌱 Current Focus
 
 > I enjoy solving real-world problems through software and data. My current learning journey is centered around **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **System Design**. I'm building practical projects that combine my academic foundation with industry best practices.
@@ -243,7 +235,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 
 </div>
-
+<br/><br/>
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
@@ -261,7 +253,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </div>
 
 ---
-
+<br/><br/>
 ## 🎯 Learning Roadmap
 
 | 📚 Domain | 🎯 Current Focus |
@@ -275,7 +267,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 | **Frontend Engineering** | React, Responsive Design, User Experience (Active) |
 
 ---
-
+<br/><br/>
 ## 🚀 Current Goals
 
 - Build practical **Machine Learning** projects from real-world datasets.
@@ -287,7 +279,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - Master **Frontend Engineering** best practices and modern tooling.
 
 ---
-
+<br/><br/>
 ## 📖 Learning Philosophy
 
 > *I believe the best way to learn is by building. Every concept I study is reinforced through hands-on projects, experimentation, and continuous improvement. My goal is to develop solutions that are not only functional but also maintainable, scalable, and aligned with industry standards.*
@@ -299,7 +291,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
+<br/><br/>
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -308,6 +300,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=58A6FF" />
 
 <br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Talha-Yaseen-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=2A5298&fire=FFD700&currStreakLabel=FFD700" />
 
@@ -318,7 +311,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </div>
 
 <br/>
-
+<br/><br/>
 ## 🎯 Currently Working On & What's Next
 
 <table>
@@ -343,7 +336,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </table>
 
 <br/>
-
+<br/><br/>
 <!-- ===================== LET'S CONNECT ===================== -->
 
 # 🤝 Let's Connect
@@ -379,7 +372,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </p>
 
 <br>
-
+<br/><br/>
 ### 💬 Let's Build Together
 
 *I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Software Engineering**, **Frontend Engineering**, and **Web Development**. Whether it's building innovative solutions, contributing to open-source, or working on challenging problems, I'm always excited to learn and grow with like-minded developers.*
