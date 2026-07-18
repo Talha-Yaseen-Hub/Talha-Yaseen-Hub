@@ -84,8 +84,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=%22Review+by+review,+until+it+simply+makes+sense.%22" alt="Animated Typing Quote" />
 </a>
 
-</div>
 <br><br>
+</div>
+
 ## 🚀 Professional Journey
 
 <div align="center">
