@@ -272,8 +272,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building+Real+Projects;Frontend+Engineering+%7C+React;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+System+Design;Every+Day+is+a+Chance+to+Improve"/>
 
-<br><br>
-
 </div>
 
 <br><br>
