@@ -38,13 +38,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Education-FCIT,_PU-1E3C72?style=flat-square" />
-<img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-2A5298?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯_Focus-AI_%2F_ML_%26_Data-FFD700?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/💼_Open_to-Internships-1E3C72?style=flat-square" />
-
 </div>
 
 <br/>
@@ -299,10 +292,11 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=C9D1D9" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=C9D1D9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=58A6FF&ring=2A5298" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=58A6FF" />
 
 <br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Talha-Yaseen-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=2A5298&fire=FFD700&currStreakLabel=FFD700" />
 
@@ -313,6 +307,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </div>
 
 <br/>
+<br/><br/>
 
 ## 🎯 Currently Working On & What's Next
 
