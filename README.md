@@ -86,31 +86,35 @@
 
 ## 🚀 Professional Journey
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,30,34&section=header&text=My%20Experience&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<br/>
-
-### <div align="center">
-
-| ![](https://img.shields.io/badge/-Software%20Engineer%20Intern-1E3C72?style=flat-square&logo=code) | ![](https://img.shields.io/badge/-AURADEV-FFD700?style=flat-square&logo=briefcase) | ![](https://img.shields.io/badge/-Building%20Innovation-2A5298?style=flat-square&logo=rocket) |
-|:---:|:---:|:---:|
-| **Bridging academic foundation with industrial innovation** | | |
-
-<br/>
-
-| ![](https://img.shields.io/badge/-Frontend%20Engineer-00B4DB?style=flat-square&logo=react) | ![](https://img.shields.io/badge/-FlyRankAi-FF6B6B?style=flat-square&logo=briefcase) | ![](https://img.shields.io/badge/-Shipping%20Features-4ECDC4?style=flat-square&logo=rocket) |
-|:---:|:---:|:---:|
-| **Crafting responsive, user-centric interfaces** | | |
-
-</div>
-
-<br/>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-1E3C72?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-AURADEV-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Status-Actively_Building-2A5298?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 <br/><br/>
+
+> *"Bridging the gap between academic foundation and industrial innovation, one line of code at a time."*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Role-Frontend_Engineer-00B4DB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-FlyRankAi-FF6B6B?style=for-the-badge&logo=airbnb&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Actively_Shipping-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<br/><br/>
+
+> *"Crafting responsive, user-centric interfaces and modern web experiences"*
+
+<br/>
 
 <table>
 <tr>
