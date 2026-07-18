@@ -309,6 +309,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </div>
 
 <br><br>
+<br>
 
 ## 🔥 GitHub Stats
 
@@ -389,7 +390,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 </p>
 <br><br>
-<br>
 
 ### 💬 Let's Build Together
 
