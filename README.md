@@ -171,8 +171,6 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b0bd-83e5c439d977.gif" width="100%">
 </div>
 
-<br/>
-
 <!-- ===================== SKILLS ===================== -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35"/> Skills & Tools
