@@ -88,59 +88,53 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,30,34&section=header&text=Professional%20Experience&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Building+Real-World+Solutions" />
+</div>
 
 <br/>
 
-</div>
-
-<!-- AURADEV Role -->
+<!-- ====== AURADEV ROLE ====== -->
 <div align="center">
 
-<table width="100%" style="margin-bottom: 30px;">
-<tr>
-<td align="center">
+<div style="background: linear-gradient(135deg, rgba(26,35,126,0.1) 0%, rgba(42,82,152,0.1) 100%); border: 2px solid #2A5298; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 900px; backdrop-filter: blur(10px);">
 
-<img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-1E3C72?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-AURADEV-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Status-Actively_Building-2A5298?style=for-the-badge&logo=statuspage&logoColor=white" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/⚙️_ROLE-Software_Engineer_Intern-1E3C72?style=for-the-badge&labelColor=0D1117&color=2A5298" />
+  <img src="https://img.shields.io/badge/🏢_COMPANY-AURADEV-FFD700?style=for-the-badge&labelColor=0D1117&color=1a237e" />
+</div>
 
-</td>
-</tr>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/✨_STATUS-Actively_Building-2A5298?style=for-the-badge&labelColor=0D1117&color=00B4DB" />
+</div>
 
-<p align="center" style="color: #888; font-size: 14px;"><i>Bridging the gap between academic foundation and industrial innovation</i></p>
-
-</td>
-</tr>
-</table>
+<div style="color: #58A6FF; font-size: 16px; font-style: italic; margin-top: 15px; border-top: 1px solid #2A5298; padding-top: 15px;">
+  <p style="margin: 0; color: #FFD700;">🎯 Bridging the gap between academic foundation and industrial innovation</p>
+</div>
 
 </div>
 
-<!-- FlyRankAi Role -->
+</div>
+
+<!-- ====== FLYRANKRAI ROLE ====== -->
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center">
+<div style="background: linear-gradient(135deg, rgba(255,107,107,0.1) 0%, rgba(78,205,196,0.1) 100%); border: 2px solid #FF6B6B; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 900px; backdrop-filter: blur(10px);">
 
-<img src="https://img.shields.io/badge/Role-Frontend_Engineer-00B4DB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Company-FlyRankAi-FF6B6B?style=for-the-badge&logo=airbnb&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Actively_Shipping-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/💻_ROLE-Frontend_Engineer-00B4DB?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/🎯_COMPANY-FlyRankAi-4ECDC4?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
+</div>
 
-</td>
-</tr>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/🚀_STATUS-Actively_Shipping-4ECDC4?style=for-the-badge&labelColor=0D1117&color=FF6B6B" />
+</div>
 
-<p align="center" style="color: #888; font-size: 14px;"><i>Crafting responsive, user-centric interfaces and modern web experiences</i></p>
+<div style="color: #FF6B6B; font-size: 16px; font-style: italic; margin-top: 15px; border-top: 1px solid #FF6B6B; padding-top: 15px;">
+  <p style="margin: 0; color: #4ECDC4;">✨ Crafting responsive, user-centric interfaces and modern web experiences</p>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
