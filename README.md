@@ -306,9 +306,9 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
-
-</div>
 <br><br>
+</div>
+
 ## 🔥 GitHub Stats
 
 <div align="center">
