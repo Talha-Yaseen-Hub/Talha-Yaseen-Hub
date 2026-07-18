@@ -251,9 +251,8 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <br><br>
 
 </div>
-
----
 <br/><br/>
+---
 ## 🎯 Learning Roadmap
 
 | 📚 Domain | 🎯 Current Focus |
