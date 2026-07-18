@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Information%20Technology%20%7C%20FCIT,%20University%20of%20the%20Punjab&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Yaseen&fontSize=55&fontColor=ffffff&animation=fading" />
 
 <br>
 
 <a href="https://github.com/Talha-Yaseen-Hub">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Learning+Today%2C+Building+Tomorrow;Artificial+Intelligence+%7C+Machine+Learning;Data+Analytics+%7C+Software+Engineering;Turning+Ideas+into+Real+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Learning+Today%2C+Building+Tomorrow;Artificial+Intelligence+Enthusiast;Turning+Ideas+Into+Code" />
 </a>
 
 <!-- ================= Professional Badges ================= -->
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,mysql,git,github,vscode,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,tensorflow,pytorch,mysql,git,github,vscode,linux&perline=11"/>
 
 <br><br>
 
@@ -88,7 +88,7 @@
 
 <!-- Moving Typing Animation Quote -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=%22Review+by+review,+until+it+simply+makes+sense.%22" alt="Animated Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=%22Review+by+review,+until+it+simply+works.%22;%22Great+code+is+never+finished,+only+refined.%22;%22Build+in+public,+learn+in+the+open.%22" />
 </a>
 
 </div>
@@ -97,9 +97,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV;Building+Scalable+Systems;Turning+Coffee+into+Code+%E2%98%95;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV;Building+Real-World+Solutions" />
 
 <br/>
 
@@ -169,11 +169,11 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header&text=Technical%20Expertise&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header&text=Technical%20Expertise&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Skills+Through+Real+Projects;Learning+Modern+Technologies;Writing+Clean+and+Maintainable+Code"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Skills+Through+Real+Projects;Learning+Across+Multiple+Domains" />
 
 <br><br>
 
@@ -187,7 +187,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <table>
 <tr>
 <td width="28%"><b>💻 Programming</b></td>
-<td>C, C++, Python, SQL, Object-Oriented Programming, Problem Solving</td>
+<td>C, C++, Python, JavaScript, SQL, Object-Oriented Programming, Problem Solving</td>
 </tr>
 
 <tr>
@@ -207,7 +207,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <tr>
 <td><b>🛠 Development Tools</b></td>
-<td>Git, GitHub, VS Code, Linux, Jupyter Notebook</td>
+<td>Git, GitHub, VS Code, Linux, Jupyter Notebook, Node.js</td>
 </tr>
 
 <tr>
@@ -224,6 +224,8 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ✔ Database-driven Systems with SQL
 
+✔ Web Applications with JavaScript
+
 ✔ Data Analytics Dashboards and Reports
 
 ✔ AI & Machine Learning Projects
@@ -234,7 +236,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ## 🌱 Current Focus
 
-> I enjoy solving real-world problems through software and data. My current learning journey is centered around **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **System Design**, while continuously strengthening my programming and analytical skills through practical projects.
+> I enjoy solving real-world problems through software and data. My current learning journey is centered around **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **System Design**. I'm building practical projects that combine my academic foundation with industry best practices.
 
 <br>
 
@@ -253,7 +255,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building+Real+Projects;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+System+Design;Every+Day+is+a+Chance+to+Improve"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building+Real+Projects;Artificial+Intelligence+%26+Machine+Learning" />
 
 <br><br>
 
@@ -270,6 +272,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 | **Software Engineering** | SOLID Principles, Design Patterns, Clean Architecture |
 | **System Design** | REST APIs, Scalability, Databases, Software Architecture |
 | **Development Practices** | Git, GitHub, Linux, Docker, Project-Based Learning |
+| **Web Development** | JavaScript, Node.js, API Development (Learning) |
 
 ---
 
@@ -278,6 +281,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - Build practical **Machine Learning** projects from real-world datasets.
 - Strengthen software engineering fundamentals through scalable applications.
 - Learn modern **System Design** concepts and backend architecture.
+- Explore **Web Development** with JavaScript and modern frameworks.
 - Contribute to **open-source** projects and collaborate with developers.
 - Continuously improve problem-solving and analytical thinking.
 
@@ -285,7 +289,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ## 📖 Learning Philosophy
 
-> *I believe the best way to learn is by building. Every concept I study is reinforced through hands-on projects, experimentation, and continuous improvement. My goal is to develop solutions that are practical, maintainable, and impactful.*
+> *I believe the best way to learn is by building. Every concept I study is reinforced through hands-on projects, experimentation, and continuous improvement. My goal is to develop solutions that are not only functional but also maintainable, scalable, and aligned with industry standards.*
 
 <br>
 
@@ -299,8 +303,8 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=C9D1D9" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=C9D1D9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Talha-Yaseen-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=FFD700&text_color=58A6FF&ring=2A5298" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Talha-Yaseen-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2A5298&text_color=58A6FF" />
 
 <br/>
 
@@ -325,6 +329,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - 📊 Building a portfolio of Data Analytics dashboards using Power BI
 - 🤖 Applying classic ML algorithms to real-world datasets
 - 🌐 Planning to contribute to beginner-friendly open-source repositories
+- 💻 Expanding web development skills with JavaScript and modern tools
 
 </td>
 <td width="35%" valign="top" align="center">
@@ -343,7 +348,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Let%27s+Collaborate+on+Meaningful+Projects;Artificial+Intelligence+%7C+Machine+Learning;Software+Engineering+%7C+Data+Analytics;Always+Open+to+Learning+and+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Let%27s+Collaborate+on+Meaningful+Projects" />
 
 <br><br>
 
@@ -375,7 +380,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ### 💬 Let's Build Together
 
-*I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**. Whether it's building innovative solutions, contributing to open source, or exchanging ideas, I'm always excited to connect with developers and learners around the world.*
+*I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Software Engineering**, and **Web Development**. Whether it's building innovative solutions, contributing to open-source, or working on challenging problems, I'm always excited to learn and grow with like-minded developers.*
 
 <br><br>
 
