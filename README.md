@@ -306,8 +306,9 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
-<br><br>
 </div>
+
+<br><br>
 
 ## 🔥 GitHub Stats
 
@@ -387,9 +388,9 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 </a>
 
 </p>
-
-<br>
 <br><br>
+<br>
+
 ### 💬 Let's Build Together
 
 *I enjoy collaborating on projects related to **Frontend Engineering**, **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Software Engineering**. Whether it's building innovative solutions, contributing to open source, or exchanging ideas, I'm always excited to connect with developers and learners around the world.*
