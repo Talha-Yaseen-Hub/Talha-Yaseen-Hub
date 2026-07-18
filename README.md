@@ -38,15 +38,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Education-FCIT,_PU-1E3C72?style=flat-square" />
-<img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-2A5298?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯_Focus-AI_%2F_ML_%26_Data-FFD700?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/💼_Open_to-Internships-1E3C72?style=flat-square" />
-
-</div>
-
 <br/>
 
 <div align="center">
