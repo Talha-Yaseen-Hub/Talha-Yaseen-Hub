@@ -99,21 +99,65 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Professional%20Journey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+AURADEV;Building+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=2A5298&center=true&vCenter=true&width=600&lines=Building+Real-World+Solutions" />
 
 <br/>
+
+</div>
+
+<!-- AURADEV Role -->
+<div align="center">
+
+<table width="100%" style="margin-bottom: 30px;">
+<tr>
+<td align="center">
 
 <img src="https://img.shields.io/badge/Role-Software_Engineer_Intern-1E3C72?style=for-the-badge&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/Company-AURADEV-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/Status-Actively_Building-2A5298?style=for-the-badge&logo=statuspage&logoColor=white" />
 
+</td>
+</tr>
+<tr>
+<td>
+
+<p align="center" style="color: #888; font-size: 14px;"><i>Bridging the gap between academic foundation and industrial innovation</i></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- FlyRankAi Role -->
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Role-Frontend_Engineer-00B4DB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Company-FlyRankAi-FF6B6B?style=for-the-badge&logo=airbnb&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Actively_Shipping-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td>
+
+<p align="center" style="color: #888; font-size: 14px;"><i>Crafting responsive, user-centric interfaces and modern web experiences</i></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/><br/>
 
-> *"Bridging the gap between academic foundation and industrial innovation, one line of code at a time."*
-
-<br/>
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
 
 <br/><br/>
 
@@ -273,6 +317,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 | **System Design** | REST APIs, Scalability, Databases, Software Architecture |
 | **Development Practices** | Git, GitHub, Linux, Docker, Project-Based Learning |
 | **Web Development** | JavaScript, Node.js, API Development (Learning) |
+| **Frontend Engineering** | React, Responsive Design, User Experience (Active) |
 
 ---
 
@@ -284,6 +329,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - Explore **Web Development** with JavaScript and modern frameworks.
 - Contribute to **open-source** projects and collaborate with developers.
 - Continuously improve problem-solving and analytical thinking.
+- Master **Frontend Engineering** best practices and modern tooling.
 
 ---
 
@@ -330,6 +376,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 - 🤖 Applying classic ML algorithms to real-world datasets
 - 🌐 Planning to contribute to beginner-friendly open-source repositories
 - 💻 Expanding web development skills with JavaScript and modern tools
+- 🎨 Crafting responsive, pixel-perfect frontends at **FlyRankAi**
 
 </td>
 <td width="35%" valign="top" align="center">
@@ -380,7 +427,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 ### 💬 Let's Build Together
 
-*I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Software Engineering**, and **Web Development**. Whether it's building innovative solutions, contributing to open-source, or working on challenging problems, I'm always excited to learn and grow with like-minded developers.*
+*I enjoy collaborating on projects related to **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Software Engineering**, **Frontend Engineering**, and **Web Development**. Whether it's building innovative solutions, contributing to open-source, or working on challenging problems, I'm always excited to learn and grow with like-minded developers.*
 
 <br><br>
 
