@@ -325,7 +325,7 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Yaseen-Hub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=2A5298&point=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/Talha-Yaseen-Hub/Talha-Yaseen-Hub/main/github-metrics.svg" width="100%" alt="GitHub Metrics Isometric Calendar" />
 
 </div>
 
