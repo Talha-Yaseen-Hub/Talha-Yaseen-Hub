@@ -103,7 +103,7 @@
 
 <img src="https://img.shields.io/badge/Role-Frontend_Engineer-1E3C72?style=for-the-badge&logo=react&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Company-FlyRankAi-0D1117?style=for-the-badge&logoColor=FFD700" /><br/>
-<img src="https://img.shields.io/badge/Status-Actively_Building-2A5298?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Completed-2A5298?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 </td>
 <td align="center" width="50%" valign="top">
