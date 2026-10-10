@@ -258,6 +258,138 @@ Applying my passion for AI/ML and data-driven logic to solve complex engineering
 
 </div>
 <br><br>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35"/> Featured Projects
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&text=Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Platforms+%7C+3D+Web+Experiences;Computer+Vision+%7C+Real-World+Engineering;Ideas%2C+Shipped+and+Live"/>
+
+</div>
+
+<br><br>
+
+### 🛍️ [BookYou & Co. — E-Commerce Bookstore & Stationery Atelier](https://bookyou.onrender.com/)
+<sub>Jul 2026 – Oct 2026</sub>
+
+<p>
+<a href="https://bookyou.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-1E3C72?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+A modern, full-stack e-commerce platform delivering a seamless, highly interactive shopping experience for books and stationery.
+
+- **Frontend Architecture:** Engineered the UI with Next.js 16 (App Router), React 19, and TypeScript, ensuring strict type safety and optimized server-side rendering.
+- **Interactive UI/UX:** Crafted a responsive, glassmorphic-inspired interface using Tailwind CSS, enhanced with Framer Motion for fluid, spring-based animations and layout transitions.
+- **Backend & Database:** Designed robust data models using Prisma ORM connected to an edge-compatible SQLite/LibSQL database.
+- **State & Security:** Managed complex client-side state (shopping cart, user sessions) using Zustand. Implemented secure edge-runtime JWT authentication via Jose and Bcryptjs, alongside Google OAuth for social logins.
+- **Automated Workflows:** Integrated the Resend API for transactional order confirmations and utilized PDFKit to dynamically generate server-side receipts and invoices.
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,sqlite"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jose_JWT-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bcryptjs-003A70?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resend_API-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDFKit-FF0000?style=flat-square&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
+
+<br>
+
+### 💎 [Lux Gem — Fine Jewellery & Masterpieces](https://luxgem-xc6j.onrender.com/)
+
+<p>
+<a href="https://luxgem-xc6j.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-1E3C72?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+A full-stack e-commerce web application for browsing, purchasing, and managing jewellery products, built with ASP.NET Core MVC and Entity Framework Core on SQL Server.
+
+- Architected a robust MVC backend using C# and ASP.NET Core 8.0, implementing the Repository pattern to cleanly manage data access and authentication flows.
+- Implemented comprehensive user authentication, secure login/signup logic, and a dedicated verification module using ASP.NET Core Identity.
+- Integrated MailKit for a resilient, multi-provider email delivery service for automated notifications and confirmations.
+- Designed a responsive frontend with Bootstrap 5 and ViewModels, featuring dynamic category tab filtering logic.
+- Built a custom Admin Panel as an automated CMS, with live database syncing and logic to prevent database wipes during server restarts.
+- Configured automated EF Core migrations for version-controlled schema updates, plus self-healing routines for broken product image URLs.
+- Containerized the complete application and live CMS backend with Docker, streamlining deployments across cloud environments.
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,bootstrap,docker"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MailKit-00599C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=flat-square&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
+
+<br>
+
+### 🧬 [Bio Layer — Explore the Human Body in 3D](https://bio-layer.onrender.com/)
+<sub>May 2026 – Jun 2026</sub>
+
+<p>
+<a href="https://bio-layer.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-1E3C72?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+An interactive 3D anatomy platform delivering photorealistic WebGL specimen exploration for students, educators, and medical professionals worldwide.
+
+- Built an interactive WebGL-based rendering pipeline for highly detailed, photorealistic 3D anatomical models with full orbit, pan, and zoom controls.
+- Implemented dynamic layer management, letting users isolate, toggle, and explore specific biological systems (skeletal, muscular, nervous, etc.).
+- Developed an intuitive React.js interface with spatial overlays, contextual annotations, and rich medical metadata linked directly to 3D coordinates.
+- Optimized 3D asset delivery using geometry compression (GLTF/Draco), texture optimization, and lazy loading for high-performance rendering.
+- Integrated backend services and APIs for dynamic educational content, model metadata, and interactive anatomical datasets.
+- Added multi-angle viewpoints, real-time lighting adjustments, customizable cross-sections, and guided specimen tours.
+- Engineered for robust cross-platform compatibility — smooth frame rates and high visual fidelity on both desktop and mobile browsers.
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,threejs,nodejs,express,postgres,git,github"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draco_Compression-4285F4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logoColor=black"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="boundary">
+
+<br>
+
+### 🎯 [StrataVision Micro-Detector](https://github.com/Talha-Yaseen-Hub/StrataVision-Micro-Detector)
+
+<p>
+<a href="https://github.com/Talha-Yaseen-Hub/StrataVision-Micro-Detector"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+A high-precision computer vision framework engineered for small-object detection — combining a custom 4-head P2 YOLOv8 network, SAHI sliced inference for 4K aerial imagery, and real-time open-vocabulary YOLO-World detection across 200+ classes. Optimized for micro-target tracking with COCO mAP_S benchmark evaluation.
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,pytorch"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAHI_Sliced_Inference-1E3C72?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO--World-2A5298?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-FFD700?style=flat-square&logoColor=black"/>
+</p>
+
+<br><br>
+
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35"/> Currently Learning
